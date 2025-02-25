@@ -2,23 +2,23 @@
 
 ## Project Overview
 ### Project Title
-[Enter your project title here]
+Cheap Flight Finder
 
 ### Project Summary
-[Provide a brief 2-3 sentence overview of what your Python project will do]
+This Python project will develop a command-line application that finds cheap flights from an origin to a destination using a flight API. Additionally, it will send flight details via SMS using Twilio, allowing users to receive notifications directly on their phones.
 
 ## Problem Statement
 - What problem will your Python project solve?
-    - (Add details here)
+    - Many travelers struggle to find affordable flight options and often miss out on good deals. This project will automate the process of searching for cheap flights and notifying users via SMS.
 - Why is this solution needed?
-    - (Add details here)
+    - The solution is needed to save users time and effort in tracking flight prices and to ensure they do not miss out on low-cost flight options.
 - Who will use this program?
-    - (Add details here)
+    - Travelers looking for budget-friendly flight options, travel agents, and anyone interested in receiving flight deals via SMS.
 
 ## Technical Details
 ### Python Components
 1. **Python Version**
-   - Python [version number]
+   - Python 3.9
 
 2. **Core Python Concepts to be Used(Tick the ones to be used and add where necessary)**
    - [ ] Functions
